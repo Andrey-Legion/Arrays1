@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Task1");
-        int[] counts = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9};
+        int[] counts = new int[]{1, 2, 3};
         double[] nums = {1.57, 7.654, 9.986};
         char[] alphabetRus = new char[33];
         char[] lists = {'q','w','e','r'};
